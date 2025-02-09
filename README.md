@@ -17,6 +17,7 @@ Form must have a minimum of 1 Textbox, with 1 Required field - 2 pts
 Form must have a Submit Button - 1 pt
 Form must have an action that redirect to Page 2 on Submission -  3 pts
 Form must have labels - 2 pts
+
 CSS:
 Change Background Color of Page - 1 pt
 CSS Must Style the Submit Button, and ONLY the submit button, with a Different Color, and some margin - 3 pts
@@ -24,6 +25,7 @@ The Submit button must have a Hover Element (the color changes on hover) - CHALL
 You must create a div, and use that to modify the text boxes - 4 pts
 Make it have a Margin
 Increase the Font-Size of at least the label
+
 Page 2 Requirements:
 The page must have a h1, which is aligned to the Center - 2 pts
 There must be an image which has a width of 50% and is Centered - 4 pts
