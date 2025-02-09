@@ -6,6 +6,7 @@
 # Comments: 
 This is the second lab Assignment for INST377. The goal of this lab is to create a Slightly more advanced HTML page that uses CSS + HTML Forms. The goal is to create a semi-nice looking page with our newfound CSS + HTML Knowledge
 
+
 Desired Pager(s):
 
 -The goal is to make 2 Pages
@@ -13,6 +14,7 @@ Desired Pager(s):
 -An HTML Page with a Form
 
 -A Thank you Page after the form Action
+
 
 Page 1 Requirements:
 
@@ -25,6 +27,7 @@ Create HTML form with Action
 -Form must have an action that redirect to Page 2 on Submission -  3 pts
 
 -Form must have labels - 2 pts
+
 
 CSS:
 
@@ -39,6 +42,7 @@ CSS:
 Make it have a Margin
 
 Increase the Font-Size of at least the label
+
 
 Page 2 Requirements:
 
